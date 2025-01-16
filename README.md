@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript involving loose equality (==) and shows how to resolve it using strict equality (===). Loose equality can lead to unexpected type coercion and incorrect comparisons.  The example shows the problematic code and its corrected version using strict equality, preventing unexpected behavior.
